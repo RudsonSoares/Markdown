@@ -1,5 +1,5 @@
 # Markdown
-  **Códigos para serem usados nos textos**
+  **Manual Markdown**
 
  # **Guia da Linguagem** 
 ---
