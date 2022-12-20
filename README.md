@@ -71,3 +71,16 @@ else:
 🖖 👶 🤙
 
 ---
+
+~~~ javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~PHP
+Esta é uma linha de código em PHP.
+~~~
+
+~~~HTML
+Esta é uma linha de código em HTML.
+~~~
+
